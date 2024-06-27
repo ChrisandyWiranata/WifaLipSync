@@ -1,0 +1,10 @@
+Nama Kelompok: Kamen Rider
+Kelas: IF-A Sore | TI | Semester IV | Universitas Mikroskil
+Nama Project: WifaLipSync
+Deskripsi Project: Program AI Lip-Syncing Audio Ke Video
+Daftar Anggota:
+- 221110196 - Muhammad Fahim : Coder, Designer
+- 221110252 - Chrisandy Wiranata : Coder, Designer
+- 221112939 - Jhonsen : Tester, Supporting
+- 221113813 - Kevin Tandella : Tester, Supporting
+- 221110330 - Kent Dhani Isara : Tester, Supporting
