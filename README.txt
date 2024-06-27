@@ -1,6 +1,8 @@
 README FROM US
 
 0. Lip-Sync berbeda dengan Voice Synthesis (penjelasan lebih lanjut di video demo)
+Link dari Video Demo:
+https://drive.google.com/drive/folders/1SapbLMG2jvy1TvdwPkKOP_r_4MUXX_pg?usp=sharing
 
 1. Pastikan folder project terletak di directory system C:
 
